@@ -57,5 +57,12 @@ body {
     margin-right: auto;
     border: 5px solid black;
     border-collapse: collapse;
+    width: 100%;
+    color: rgb(205, 50, 205);
+  }
+
+  .t{
+    text-align: left;
+    color: tomato;
 
   }
